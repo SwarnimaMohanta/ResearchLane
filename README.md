@@ -92,7 +92,7 @@ It was developed as a B.Tech capstone project (Computer Science &amp; Engineerin
 ### 1. Dashboard
 
 <p align="center">
-  <img src="screenshots/dashboard.png" alt="Dashboard" width="90%" />
+  <img src="screenshots/pic1.png" alt="Dashboard" width="90%" />
 </p>
 
 The landing page after login. It greets the user and shows the total number of papers and AI chats. Below that, the Recent Papers and Recent Activity panels show the latest uploads and questions, and Recent Activity can be cleared.
@@ -100,7 +100,7 @@ The landing page after login. It greets the user and shows the total number of p
 ### 2. Upload Papers
 
 <p align="center">
-  <img src="screenshots/upload.png" alt="Upload Papers" width="90%" />
+  <img src="screenshots/pic2.png" alt="Upload Papers" width="90%" />
 </p>
 
 Users choose one or more PDF files and upload them with a single click. The "Your Papers" list below shows every uploaded paper with its upload date and a Delete button.
@@ -108,7 +108,7 @@ Users choose one or more PDF files and upload them with a single click. The "You
 ### 3. AI Chat
 
 <p align="center">
-  <img src="screenshots/chat.png" alt="AI Chat" width="90%" />
+  <img src="screenshots/pic3.png" alt="AI Chat" width="90%" />
 </p>
 
 Users select a paper and ask questions about it in natural language. Earlier conversations are listed under Previous Conversations, and clicking a source opens the Citation Viewer on the right to show the paper details, the retrieved text, and the PDF page.
@@ -116,7 +116,7 @@ Users select a paper and ask questions about it in natural language. Earlier con
 ### 4. Paper Library
 
 <p align="center">
-  <img src="screenshots/library.png" alt="Paper Library" width="90%" />
+  <img src="screenshots/pic4.png" alt="Paper Library" width="90%" />
 </p>
 
 All uploaded papers appear as cards showing the title, detected author, and upload date. Users can search by title or author, filter by year, sort by date, open a paper's summary, or delete it.
@@ -124,7 +124,7 @@ All uploaded papers appear as cards showing the title, detected author, and uplo
 ### 5. Compare Papers
 
 <p align="center">
-  <img src="screenshots/compare.png" alt="Compare Papers" width="90%" />
+  <img src="screenshots/pic.5.png" alt="Compare Papers" width="90%" />
 </p>
 
 Users pick Paper A and Paper B and click Compare Papers. ResearchLane then generates an AI comparison split into Similarities, Differences, Methodology, Datasets, Results, and a Final AI Analysis.
@@ -264,7 +264,7 @@ Create a `.env` file (never commit real secrets).
 | AI chat and chat history | 🚧 Implemented, being refined |
 | Citation display | 🚧 Implemented, being refined |
 | Paper comparison | 🚧 Implemented, being debugged |
-| Paper summaries | 🚧 In progress |
+| Paper summaries | 🚧  Implemented, being refined|
 | Testing and deployment | 📅 Planned |
 
 ---
