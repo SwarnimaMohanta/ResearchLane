@@ -17,7 +17,7 @@ Upload research papers, chat with them, get cited answers, and compare papers si
   <img src="https://img.shields.io/badge/ChromaDB-FF6446?style=for-the-badge" alt="ChromaDB" />
 </p>
 
-<img src="screenshots/dashboard.png" alt="ResearchLane Dashboard" width="90%" />
+<img src="screenshots/pic1.png" alt="ResearchLane Dashboard" width="90%" />
 
 </div>
 
@@ -124,7 +124,7 @@ All uploaded papers appear as cards showing the title, detected author, and uplo
 ### 5. Compare Papers
 
 <p align="center">
-  <img src="screenshots/pic.5.png" alt="Compare Papers" width="90%" />
+  <img src="screenshots/pic5.png" alt="Compare Papers" width="90%" />
 </p>
 
 Users pick Paper A and Paper B and click Compare Papers. ResearchLane then generates an AI comparison split into Similarities, Differences, Methodology, Datasets, Results, and a Final AI Analysis.
